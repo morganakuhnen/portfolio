@@ -6,7 +6,7 @@ Este é o meu portfólio pessoal, desenvolvido durante o curso do +praTI, onde a
 
 O portfólio é dividido em seções que incluem:
 
-- **Início**: Apresentação e título.
+- **Início**: Apresentação e título utilizando glassmorfismo.
 - **Sobre Mim**: Uma introdução detalhada sobre mim e minha jornada no desenvolvimento front-end.
 - **Habilidades**: Destaque das habilidades que possuo, incluindo HTML, CSS, JavaScript e Bootstrap.
 - **Contato**: Informações para me contatar, incluindo telefone, e-mail e links para redes sociais.
