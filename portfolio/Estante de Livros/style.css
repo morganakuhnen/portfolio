@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #FFE3E1;
+    color: #0d0d0d;
+    text-align: justify;
+    width: 85%;
+    margin: auto;
+}
+
+section {
+    padding: 64px 256px;
+}
+
+/*tabela */
+
+table {
+    width: 100%;
+}
+
+td {
+    background-color: #FFE3E1;
+}
+
+td,
+th {
+    text-align: center;
+    border: #000 solid 1px;
+    border-radius: 4px;
+}
+
+tr {
+    background-color: #FF9494;
+}
+
+
+p {
+    font-family: 'PT Mono', monospace;
+    text-align: justify;
+    text-indent: 50px;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'PT Mono', monospace;
+    text-align: center;
+}
+
+h3 {
+    color: #000;
+}
+
+a {
+    font-family: 'PT Mono', monospace;
+    text-decoration: none;
+}
+
+a:link {
+    color: #FFE3E1;
+}
+
+a:visited {
+    color: #FFE3E1;
+}
+
+a:hover {
+    color: #025454;
+}
+
+a:active {
+    color: #0d0d0d;
+}
+
+
+img {
+    width: 300px;
+    display: block;
+    margin: auto;
+    border-radius: 15px;
+}
+
+.bookTitle {
+    font-family: 'PT Mono', monospace;
+    color: #FFE3E1;
+    text-align: center;
+    background-color: #FF9494;
+    padding: 12px;
+    width: ;
+}
+
+#sectionHAB,
+#sectionLCB,
+#sectionTFB,
+#sectionHDLA,
+#sectionCCH {
+    font-family: 'PT Mono', monospace;
+    background-color: #FFD1D1;
+}
+
+#sectionAAB,
+#sectionTFM,
+#sectionOAG,
+#sectionOCR {
+    font-family: 'PT Mono', monospace;
+    background-color: #FFE3E1;
+}
+
+#header {
+    background-color: #FF9494;
+    color: #F2E7DC;
+    padding: 20px;
+    margin-bottom: 0px;
+
+}
+
+#yourLibrary {
+    font-family: 'PT Mono', monospace;
+    text-indent: 0px;
+    text-align: center;
+}
+
+#sumary {
+    font-family: 'PT Mono', monospace;
+    background-color: #FF9494;
+    color: #F2E7DC;
+    padding: 20px;
+    margin-bottom: 50px;
+    border-radius: 0 0 50px 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+footer {
+    font-family: 'PT Mono', monospace;
+    background-color: #FF9494;
+    width: 100%;
+    text-align: center;
+    padding: 30px 0;
+}
